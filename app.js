@@ -85,7 +85,7 @@ for(i = 0; i < cartas.length*2; i++){
                     audio.play()
                     setTimeout(() => {
                         document.location.reload()
-                    }, 1000)
+                    }, 3000)
                 }
                 enJuego = []
             }else if(enJuego[0] !== enJuego[1]){
