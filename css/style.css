@@ -21,8 +21,6 @@ img {
     align-items: center;
     width: 930px;
     height: 630px;
-    background-color: purple;
-    border-radius: 20px;
 }
 main {
     display: grid;
